@@ -1,0 +1,33 @@
+# Keep startup/personal strategy out of the public repo
+PRIVATE_NOTES.md
+PRIVATE_*.md
+.private/
+
+# Xcode
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# macOS
+.DS_Store
+._*
+
+# Tool output
+*.log
+*.xcarchive
+
+# Local config
+.env
+*.local

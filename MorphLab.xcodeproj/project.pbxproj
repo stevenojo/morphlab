@@ -16,6 +16,7 @@
 		AA0000000000000000000B07 /* VideoExporter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA0000000000000000000F07 /* VideoExporter.swift */; };
 		AA0000000000000000000B08 /* VideoKeyframeExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA0000000000000000000F08 /* VideoKeyframeExtractor.swift */; };
 		AA0000000000000000000B09 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA0000000000000000000F09 /* ViewController.swift */; };
+		AA0000000000000000000B0B /* TimelineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA0000000000000000000F0B /* TimelineView.swift */; };
 		AA0000000000000000000B0A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA0000000000000000000F0A /* Assets.xcassets */; };
 
 /* End PBXBuildFile section */
@@ -30,6 +31,7 @@
 		AA0000000000000000000F07 /* VideoExporter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoExporter.swift; sourceTree = "<group>"; };
 		AA0000000000000000000F08 /* VideoKeyframeExtractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoKeyframeExtractor.swift; sourceTree = "<group>"; };
 		AA0000000000000000000F09 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		AA0000000000000000000F0B /* TimelineView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimelineView.swift; sourceTree = "<group>"; };
 		AA0000000000000000000F0A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 
 		AA0000000000000000000F0C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				AA0000000000000000000F05 /* MorphRenderer.swift */,
 				AA0000000000000000000F07 /* VideoExporter.swift */,
 				AA0000000000000000000F08 /* VideoKeyframeExtractor.swift */,
+				AA0000000000000000000F0B /* TimelineView.swift */,
 				AA0000000000000000000F0A /* Assets.xcassets */,
 
 				AA0000000000000000000F0C /* Info.plist */,
@@ -161,6 +164,7 @@
 				AA0000000000000000000B07 /* VideoExporter.swift in Sources */,
 				AA0000000000000000000B08 /* VideoKeyframeExtractor.swift in Sources */,
 				AA0000000000000000000B09 /* ViewController.swift in Sources */,
+				AA0000000000000000000B0B /* TimelineView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
